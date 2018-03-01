@@ -1,0 +1,29 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.4.4
+  http://backwpup.com
+  Blog Name: 袁飞
+  Blog URL: http://localhost/blog
+  Generated on: 2018-02-26 12:18.47
+------------------------------------------------------------
+
+
+All plugin information:
+------------------------------
+Akismet Anti-Spam (v.4.0.1) from Automattic
+	https://akismet.com/
+BackWPup (v.3.4.4) from Inpsyde GmbH
+	http://backwpup.com
+Disable Google Fonts (v.1.3) from Milan Dinić
+	http://blog.milandinic.com/wordpress/plugins/disable-google-fonts/
+Hello Dolly (v.1.6) from Matt Mullenweg
+	http://wordpress.org/plugins/hello-dolly/
+
+Active plugins:
+------------------------------
+BackWPup
+Disable Google Fonts
+
+Inactive plugins:
+------------------------------
+Akismet Anti-Spam
+Hello Dolly
